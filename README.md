@@ -33,7 +33,7 @@ BlumBot is a Telegram automation tool designed to help you manage and interact w
     ```
 
 2. **Run script:**
-	Double-click on the `run.bat` (windows) or `bash run.sh` (linux or macos) 
+	Double-click on the `run.bat` (windows) or `python3 main.py` (linux or macos) 
 
 ### Configuration
 
