@@ -48,7 +48,7 @@ API_HASH = 'your_api_hash'
 
 
 1. **Run the script:**
-    ```run.bat``` or ```run.sh```
+    ```run.bat``` or ```python3 main.py```
 
 2. **Select an action:**
     - `1` create session
